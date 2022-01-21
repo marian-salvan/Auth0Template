@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Auth0Template.API.Controllers
 {
-    [Route("api")]
+    [Route("[controller]")]
     [ApiController]
     public class TestController : ControllerBase
     {
