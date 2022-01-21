@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth0Template.API", "WebApplication1\Auth0Template.API.csproj", "{4A9B7014-9C2A-41C5-81EE-316B2AAB6960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9B7014-9C2A-41C5-81EE-316B2AAB6960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9B7014-9C2A-41C5-81EE-316B2AAB6960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9B7014-9C2A-41C5-81EE-316B2AAB6960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9B7014-9C2A-41C5-81EE-316B2AAB6960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0901EFC1-2294-4747-BE1A-814E4F0BCFE7}
+	EndGlobalSection
+EndGlobal
